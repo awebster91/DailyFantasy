@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailyFantasy", "DailyFantasy\DailyFantasy.csproj", "{2A6119EE-B055-435A-B787-63801F4ADF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubspot", "..\Hubspot\Hubspot\Hubspot.csproj", "{A313B79E-6A7A-4F68-8003-191ECC0C9AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6119EE-B055-435A-B787-63801F4ADF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6119EE-B055-435A-B787-63801F4ADF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6119EE-B055-435A-B787-63801F4ADF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6119EE-B055-435A-B787-63801F4ADF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A313B79E-6A7A-4F68-8003-191ECC0C9AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A313B79E-6A7A-4F68-8003-191ECC0C9AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A313B79E-6A7A-4F68-8003-191ECC0C9AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A313B79E-6A7A-4F68-8003-191ECC0C9AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029D1ECF-41C9-4737-B311-9390384C9482}
+	EndGlobalSection
+EndGlobal
